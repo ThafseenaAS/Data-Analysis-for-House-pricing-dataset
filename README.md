@@ -44,6 +44,3 @@ This dataset contains house sale prices for King Country, which includes Seattle
 
 ## Note
 This notebook template and project structure were provided as part of the IBM Skills Network learning program through Coursera. The coding exercises and analysis were completed as part of the course hands-on project.
-
-
-
